@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sky Suh "
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - papers.qmd
+      - text: "CV"
+     
+format:
+  html:
+    theme: LUX
+    css: custom.css
+    toc: true
+
+
+
