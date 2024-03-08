@@ -1,7 +1,16 @@
 ---
-title: "Hello, I am Sky Suh"
+title: "Sky Suh"
+image: sky.PNG
+about:
+  template: trestles
+  links:
+    - text: GitHub
+      url: "https://github.com/sjp2023"
+comments: false
 ---
-
-Currently third year undegraduate student of Bachelor of Information in the University of Toronto 
-
-Full of passion and curious of thinking about the design of the products that most people use for everyday and learn new expereinces from the different persepctive of the people that can help and support people for a better life. 
+<h4> Hello, I am Sky </h4>
+Currently, I am third year undergraduate student of Bachelor of Information in the University of Toronto. My undergraduate journey began with Health Sciences - Population Health and Mental Health at the UofT Scarborough Campus, then I switched up to Population Health and City Studies for two year and transfer to the Bachelor of Information. 
+<br></br>
+Full of passion and curious of thinking about the design of the products that most people use for everyday and learn new experiences from the different perspective of the people that can help and support people for a better life. 
+<br></br>
+Due to my unique and solid previous background of Health Science, Mental Health and City Studies, I have an experience with the research methodologies and skills with strong interpersonal and communication skills. 

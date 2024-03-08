@@ -4,13 +4,22 @@ project:
 
 website:
   title: "Sky Suh "
+  page-navigation: true
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - about.qmd
       - papers.qmd
       - text: "CV"
-     
+        file: SkySuhCV.pdf
+
+  page-footer: 
+    right: 
+      - icon: github
+        href: https://github.com/sjp2023
+    border: true
+    
 format:
   html:
     theme: LUX
